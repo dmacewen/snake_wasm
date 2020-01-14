@@ -2,6 +2,8 @@
 
 Built in and runnable in [webassembly.studio](https://webassembly.studio/?f=xu5ktxlhehe)
 
+NOTE: It can take a little while for the project to load
+
 ## Todos/Bugs:
  * New fruit can spawn in snake, then get erased when snake's tail goes over it. Makes fruit disappear but it still needs to be eaten
  * Disable being able to turn snake directly into itself (180) and eating itself... Seems to fustrate people
